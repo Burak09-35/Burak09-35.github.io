@@ -22,7 +22,7 @@
 }
 body{
     background-image: repeating-linear-gradient(
-        90deg, rgb(255, 253, 137), rgb(255, 219, 141) 1%, rgb(255, 251, 137) 2%
+        90deg, rgb(255, 253, 137), rgb(150, 135, 103) 1%, rgb(255, 251, 137) 2%
     );
 }
 #logo{
