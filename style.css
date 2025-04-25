@@ -76,7 +76,7 @@ p{
 .profiles .profileimage{
     display: block;
     padding: 10px;
-    min-width: 120px;
+    min-width: 300px;
     width: 30%;
     border-radius: 5%;
     order: 0;
