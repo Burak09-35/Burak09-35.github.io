@@ -70,7 +70,7 @@ p{
 }
 .profiles .titleprofile{
     display: block;
-    font-size: 2.2em;
+    font-size: 1.6em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .profiles .profileimage{
@@ -88,7 +88,7 @@ p{
 }
 
 .profile-list{
-    font-size: 1.6em;
+    font-size: 1em;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
