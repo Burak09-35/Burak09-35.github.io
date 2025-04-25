@@ -1,0 +1,56 @@
+@font-face {
+    font-family: myLogoFont;
+    src: url(Originals\ is\ Out.ttf);
+}
+.upButtons{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px;
+    font-size: 2em;
+    color: rgb(254, 255, 215);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(58, 58, 58);
+    margin-left: 5px;
+    border-radius: 10px;
+}
+#buttonContainer{
+    margin-right: 200px;
+    padding: 10px;
+    background-color: grey;
+    width: 100%;
+    border-radius: 20px;
+}
+body{
+    background-image: repeating-linear-gradient(
+        90deg, rgb(121, 121, 121), rgb(54, 54, 54) 1%, rgb(121, 121, 121) 2%
+    );
+}
+#logo{
+    font-family: 'myLogoFont';
+    font-size: 2em;
+    color: black;
+}
+nav{
+  margin-left: 5px;
+}
+a {
+    text-decoration: none;
+    color: inherit; /* Optional: inherit color from parent element */
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: myLogoFont;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20%;
+}
+p{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
